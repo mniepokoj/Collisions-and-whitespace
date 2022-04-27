@@ -155,13 +155,10 @@
     <ClCompile Include="RectangleCircleCollision.cpp" />
     <ClCompile Include="Section.cpp" />
     <ClCompile Include="zad1.cpp" />
-    <ClCompile Include="zad1.h" />
     <ClCompile Include="TriangleCollision.cpp" />
     <ClCompile Include="VertexRectangle.cpp" />
     <ClCompile Include="zad2.cpp" />
-    <ClCompile Include="zad2.h" />
     <ClCompile Include="zad3.cpp" />
-    <ClCompile Include="zad3.h" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="RectangleCircleCollision.h" />
@@ -170,6 +167,9 @@
     <ClInclude Include="Triangle.h" />
     <ClInclude Include="TriangleCollision.h" />
     <ClInclude Include="VertexRectangle.h" />
+    <ClInclude Include="zad1.h" />
+    <ClInclude Include="zad2.h" />
+    <ClInclude Include="zad3.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

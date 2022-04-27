@@ -3,7 +3,7 @@
 VertexRectangle::VertexRectangle(float A, float B, float X, float Y) : 
 	size(A, B), 
 	position(X, Y), 
-	rotation(0.01), 
+	rotation(), 
 	vertexs(sf::PrimitiveType::TrianglesStrip)
 {
 	sf::Vertex v;

@@ -6,5 +6,7 @@
 
 int main()
 {
+//	test_triangle_collision();
 	simulate_circle_rectangle();
+//	test_WhiteSpaceRemoving();
 }

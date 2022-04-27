@@ -1,0 +1,60 @@
+﻿  main.cpp
+  RectangleCircleCollision.cpp
+  Section.cpp
+  zad1.cpp
+P:\GitHub\mniepokoj\Collisions-and-whitespace\Novomatic_zadanie\zad1.cpp(6,17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+P:\GitHub\mniepokoj\Collisions-and-whitespace\Novomatic_zadanie\zad1.cpp(44,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  zad1.h
+  TriangleCollision.cpp
+  VertexRectangle.cpp
+P:\GitHub\mniepokoj\Collisions-and-whitespace\Novomatic_zadanie\VertexRectangle.cpp(8,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+P:\GitHub\mniepokoj\Collisions-and-whitespace\Novomatic_zadanie\VertexRectangle.cpp(28,70): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+P:\GitHub\mniepokoj\Collisions-and-whitespace\Novomatic_zadanie\VertexRectangle.cpp(29,70): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+P:\GitHub\mniepokoj\Collisions-and-whitespace\Novomatic_zadanie\VertexRectangle.cpp(31,70): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+P:\GitHub\mniepokoj\Collisions-and-whitespace\Novomatic_zadanie\VertexRectangle.cpp(32,70): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+P:\GitHub\mniepokoj\Collisions-and-whitespace\Novomatic_zadanie\VertexRectangle.cpp(34,70): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+P:\GitHub\mniepokoj\Collisions-and-whitespace\Novomatic_zadanie\VertexRectangle.cpp(35,70): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+P:\GitHub\mniepokoj\Collisions-and-whitespace\Novomatic_zadanie\VertexRectangle.cpp(37,70): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+P:\GitHub\mniepokoj\Collisions-and-whitespace\Novomatic_zadanie\VertexRectangle.cpp(38,70): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  zad2.cpp
+P:\GitHub\mniepokoj\Collisions-and-whitespace\Novomatic_zadanie\zad2.cpp(6,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  zad2.h
+  zad3.cpp
+  zad3.h
+  Generating Code...
+x64\Debug\zad1.obj : warning LNK4042: object specified more than once; extras ignored
+x64\Debug\zad2.obj : warning LNK4042: object specified more than once; extras ignored
+x64\Debug\zad3.obj : warning LNK4042: object specified more than once; extras ignored
+sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'
