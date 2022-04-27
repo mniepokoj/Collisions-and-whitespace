@@ -2,7 +2,7 @@
 
 Struktura projektu
 
-zad1\n
+zad1
 Główny kod sprawdzający kolizje znajduje się w pliku TriangleCollision.cpp
 Funkcja zawarta w pliku zad1.cpp pozwala na graficzne sprawdzenie poprawności metedy. Sterowanie jednym z trójkątów możliwe przy pomocy strzałek.
 
