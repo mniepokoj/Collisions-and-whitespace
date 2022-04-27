@@ -1,0 +1,45 @@
+﻿  VertexRectangle.cpp
+P:\C++ app\Novomatic_zadanie\Novomatic_zadanie\VertexRectangle.cpp(8,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+P:\C++ app\Novomatic_zadanie\Novomatic_zadanie\VertexRectangle.cpp(28,70): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+P:\C++ app\Novomatic_zadanie\Novomatic_zadanie\VertexRectangle.cpp(29,70): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+P:\C++ app\Novomatic_zadanie\Novomatic_zadanie\VertexRectangle.cpp(31,70): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+P:\C++ app\Novomatic_zadanie\Novomatic_zadanie\VertexRectangle.cpp(32,70): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+P:\C++ app\Novomatic_zadanie\Novomatic_zadanie\VertexRectangle.cpp(34,70): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+P:\C++ app\Novomatic_zadanie\Novomatic_zadanie\VertexRectangle.cpp(35,70): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+P:\C++ app\Novomatic_zadanie\Novomatic_zadanie\VertexRectangle.cpp(37,70): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+P:\C++ app\Novomatic_zadanie\Novomatic_zadanie\VertexRectangle.cpp(38,70): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+P:\C++ app\Novomatic_zadanie\Novomatic_zadanie\VertexRectangle.cpp(46,20): warning C4018: '<': signed/unsigned mismatch
+P:\C++ app\Novomatic_zadanie\Novomatic_zadanie\VertexRectangle.cpp(54,20): warning C4018: '<': signed/unsigned mismatch
+  Novomatic_zadanie.vcxproj -> P:\C++ app\Novomatic_zadanie\Debug\Novomatic_zadanie.exe
