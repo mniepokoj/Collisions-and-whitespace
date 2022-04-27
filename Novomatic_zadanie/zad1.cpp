@@ -3,7 +3,7 @@
 float fRand(double fMin, double fMax)
 {
     double f = (double)rand() / RAND_MAX;
-    return fMin + f * (fMax - fMin);
+    return float(fMin + f * (fMax - fMin));
 }
 
 int test_performance_triangle_collsion()
@@ -41,7 +41,7 @@ int test_triangle_collision()
 {
     triangle t1;
     triangle t2;
-    srand(time(NULL));
+    srand(static_cast<unsigned>(time(NULL)));
 
 
     sf::RenderWindow window(sf::VideoMode(800, 800), "SFML works!");

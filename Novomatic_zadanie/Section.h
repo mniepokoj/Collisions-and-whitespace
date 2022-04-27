@@ -12,9 +12,9 @@ struct section
     float x_min;
     float x_max;
 
-    section() {};
+    section() : a(), b(), x_min(), x_max() {};
 
-    section(const vec2& p1, const vec2& p2)
+    section(const vec2& p1, const vec2& p2) : a(), b(), x_min(), x_max()
     {
         if (p1.x > p2.x)
         {
